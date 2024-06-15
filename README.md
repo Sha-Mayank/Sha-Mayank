@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sha-Mayank
 - 👀 I’m interested in Coding, programming
-- 🌱 I’m currently learning Html,CSS
+- 🌱 I’m currently learning Html,CSS,Python
 - 💞️ I’m looking to collaborate with html work.
 - 📫 How to reach me- coming soon
 - 😄 Pronouns: He/him/his
